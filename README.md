@@ -1,5 +1,7 @@
 # ReactJS-Hackathon-2022 - MasterDexter
 
+<img src="https://github.com/MasterDexterAI/ReactJS-Hackathon-2022/blob/main/images/MasterDexter.jpg" />
+
 ### MasterDexter ReactJS Hackathon 2022
 
 #### Build a landing page for startups including the following features:
