@@ -42,7 +42,7 @@
 # Hackathon Rules and Instructions:
 
 1. The page should contain all the features mentioned above.
-2. Clone this repo.
+2. Fork this repo.
 3. create a folder in your local machine with the name of the landing page for ex. - heathcare-startup-yourfullname
 4. add a readme file in that folder along with your code with proper documentation.
 5. commit it.
