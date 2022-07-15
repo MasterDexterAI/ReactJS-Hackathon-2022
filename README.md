@@ -37,4 +37,6 @@
 
 <a href="https://dribbble.com/search">Dribble</a>
 
+# Hackathon Rules and Instructions:
+
 
