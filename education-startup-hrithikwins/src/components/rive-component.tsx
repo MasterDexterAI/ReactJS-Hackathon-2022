@@ -7,7 +7,7 @@ export default function RiveComponentFlutter({ mouseEnterEvents }) {
         animations: ["idle"],
         layout: new Layout({
             fit: Fit.Contain,
-            alignment: Alignment.TopCenter,
+            alignment: Alignment.Center,
         }),
         autoplay: true,
     });
