@@ -17,9 +17,9 @@ export default function RiveComponentFlutter({ mouseEnterEvents }) {
             key={"rive-key"}
             onMouseEnter={async () => {
                 rive && rive.pause();
-                await rive.play("slowDance");
-                await rive.pause("slowDance");
-                await rive.play();
+                await rive && rive.play("slowDance");
+                await rive && rive.pause("slowDance");
+                await rive && rive.play();
                 mouseEnterEvents;
             }}
             onMouseLeave={() => rive && rive.pause("slowDance")}
